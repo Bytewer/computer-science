@@ -1,0 +1,1 @@
+const s="/computer-science/assets/image-20220227161025841-7bb17563.webp",e="/computer-science/assets/image-20220227161034169-5423c7d2.webp",c="/computer-science/assets/image-20220227161042271-4018dfa5.webp";export{s as _,e as a,c as b};

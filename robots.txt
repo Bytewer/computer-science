@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://zhiyu1998.github.io/Computer-Science-Learn-Notes/computer-science/sitemap.xml
+Sitemap: https://bytewer.github.io/computer-science/computer-science/sitemap.xml

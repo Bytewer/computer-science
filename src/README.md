@@ -49,5 +49,5 @@ features:
     details: 推荐一些个人经常使用的插件、网页、开源项目等
     link: /others/rent_house
 copyright: false
-footer: 使用 <a href="https://github.com/zhiyu1998/Computer-Science-Learn-Notes" target="_blank">Github © 2023 Computer Science Learn Notes</a> MIT 协议, 版权所有 © 2023-present zhiyu1998
+footer: 使用 <a href="https://github.com/Bytewer/computer-scienc" target="_blank">Github © 2023 Computer Science Learn Notes</a> MIT 协议, 版权所有 © 2023-present zhiyu1998
 ---

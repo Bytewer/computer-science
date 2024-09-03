@@ -3,7 +3,7 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://zhiyu1998.github.io/Computer-Science-Learn-Notes/",
+  hostname: "https://bytewer.github.io/computer-science/",
 
   author: {
     name: "zhiyu1998",
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "zhiyu1998/Computer-Science-Learn-Notes",
+  repo: "Bytewer/computer-science",
 
   docsDir: "demo/theme-docs/src",
 
@@ -93,7 +93,7 @@ export default hopeTheme({
       vuePlayground: true,
     },
     pwa: {
-      hintComponent: "检测到新内容，点击刷新"
+      hintComponent: "检测到新内容，点击刷新",
     },
     // uncomment these if you want a pwa
     // pwa: {
